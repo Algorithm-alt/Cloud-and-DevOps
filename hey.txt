@@ -1,2 +1,4 @@
 Hello World!,  I am learning Git and Github basics at GF2. 
 Facilitator: Mr. Andrew Odoom
+git init : to initialize the repo
+git status: to check the status
